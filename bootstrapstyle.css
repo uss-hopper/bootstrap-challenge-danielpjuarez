@@ -1,0 +1,15 @@
+.row {
+	padding: 10px;
+}
+
+.jumbotron {
+	margin: 5%;
+}
+
+
+body {
+	background-color: white;
+}
+.graybox {
+	background-color: lightgray;
+}
